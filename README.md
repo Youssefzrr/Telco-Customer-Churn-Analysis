@@ -39,13 +39,3 @@
    - Monthly charges
    - Service types
  
- ### Requirements
- Listed in requirements.txt:
- - Python 3.x
- - pandas
- - numpy 
- - scikit-learn
- - seaborn
- - matplotlib
- - jupyter
- 
